@@ -1,6 +1,7 @@
 # Terraria Internal Cheat
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio)
 
 # Terraria Internal Cheat
 Educational project exploring memory reading/writing  and function hooking in a .NET game process.  ## Technical details - Internal DLL injection - MinHook for function hooking - Pattern scanning for AOB signatures - Direct memory read/write for player state
