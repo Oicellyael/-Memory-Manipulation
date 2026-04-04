@@ -2,8 +2,8 @@
 ### Project Overview
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![RE](https://img.shields.io/badge/RE-Reverse_Engineering-blueviolet?style=flat)
 
 **InsightX-x32** is a high-performance in-process instrumentation library designed for 32-bit (x86) legacy applications. The project demonstrates advanced techniques in **context interception**, **manual stack management**, and **dynamic memory protection handling**.
 
